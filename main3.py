@@ -24,7 +24,7 @@ def apply_random_color_overlay(image):
 
 def main():
     # Load an image
-    image_path = 'background.png'  # Replace with the path to your image file
+    image_path = 'image_path.png'  # Replace with the path to your image file
     image = Image.open(image_path)
 
     # Apply a completely random color overlay to the image
